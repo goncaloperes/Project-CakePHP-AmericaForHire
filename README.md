@@ -1,4 +1,7 @@
 # [AmericaForHire](https://github.com/goncaloperes/Project-CakePHP-AmericaForHire)
+![](https://img.shields.io/badge/Version-1.0-blue.svg) 
+![](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 <table>
 <tr>
@@ -12,9 +15,6 @@ As the Moderator and Founder of [America_ForHire](https://www.reddit.com/r/ameri
 </td>
 </tr>
 </table>
-
-### Version
-1.0
 
 
 ---
