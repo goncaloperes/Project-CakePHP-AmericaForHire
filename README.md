@@ -1,4 +1,8 @@
 # [AmericaForHire](https://github.com/goncaloperes/Project-CakePHP-AmericaForHire)
+[![GitHub Watches](https://img.shields.io/github/watchers/goncaloperes/Project-CakePHP-AmericaForHire.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/goncaloperes/Project-CakePHP-AmericaForHire/watchers)
+[![GitHub Starts](https://img.shields.io/github/stars/goncaloperes/Project-CakePHP-AmericaForHire.svg?style=social&label=Star&maxAge=2592000)](https://github.com/goncaloperes/Project-CakePHP-AmericaForHire/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/goncaloperes/Project-CakePHP-AmericaForHire.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/goncaloperes/Project-CakePHP-AmericaForHire/network)
+
 ![](https://img.shields.io/badge/Version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/License-MIT-green.svg)
 
